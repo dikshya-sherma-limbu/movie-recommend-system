@@ -48,7 +48,7 @@ def recommend(movie):
    return  recommended_movies, recommended_movies_posters
 
 # Custom CSS for wider text
-st.markdown()
+
 st.title('Movie Recommender System')
 
 with st.form("my_form"):
